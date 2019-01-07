@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWinForms", "FirstWinFo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenderCounties", "GenderCounties\GenderCounties.csproj", "{3F97B56B-2418-4FA2-8A5A-0879CEA89EE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailValidation", "EmailValidation\EmailValidation.csproj", "{C98493E4-B0A6-4E49-B9C0-FF72CFE0992F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3F97B56B-2418-4FA2-8A5A-0879CEA89EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F97B56B-2418-4FA2-8A5A-0879CEA89EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F97B56B-2418-4FA2-8A5A-0879CEA89EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C98493E4-B0A6-4E49-B9C0-FF72CFE0992F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98493E4-B0A6-4E49-B9C0-FF72CFE0992F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98493E4-B0A6-4E49-B9C0-FF72CFE0992F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98493E4-B0A6-4E49-B9C0-FF72CFE0992F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
