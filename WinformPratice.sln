@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailValidation", "EmailVal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniCalculator", "MiniCalculator\MiniCalculator.csproj", "{10F8E41B-D105-45A9-B50E-4E99754FB7C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarSelection", "CarSelection\CarSelection.csproj", "{9C34A5EF-B462-43A7-AEBD-7BDA5D1B228B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{10F8E41B-D105-45A9-B50E-4E99754FB7C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10F8E41B-D105-45A9-B50E-4E99754FB7C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10F8E41B-D105-45A9-B50E-4E99754FB7C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C34A5EF-B462-43A7-AEBD-7BDA5D1B228B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C34A5EF-B462-43A7-AEBD-7BDA5D1B228B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C34A5EF-B462-43A7-AEBD-7BDA5D1B228B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C34A5EF-B462-43A7-AEBD-7BDA5D1B228B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
