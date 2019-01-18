@@ -36,7 +36,7 @@ namespace WordUnscrambler
                             ExecuteScrambleWordsManualEntryScenario();
                             break;
                         default:
-                            Console.Write(Constants.EnterScrambleWordsOptionNotRecognized);
+                            Console.WriteLine(Constants.EnterScrambleWordsOptionNotRecognized);
                             break;
                     }
 
