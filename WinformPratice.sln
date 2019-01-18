@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniCalculator", "MiniCalcu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarSelection", "CarSelection\CarSelection.csproj", "{9C34A5EF-B462-43A7-AEBD-7BDA5D1B228B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{B829A7B9-3B96-4ABA-94FF-80B11DC3E706}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9C34A5EF-B462-43A7-AEBD-7BDA5D1B228B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C34A5EF-B462-43A7-AEBD-7BDA5D1B228B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C34A5EF-B462-43A7-AEBD-7BDA5D1B228B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B829A7B9-3B96-4ABA-94FF-80B11DC3E706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B829A7B9-3B96-4ABA-94FF-80B11DC3E706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B829A7B9-3B96-4ABA-94FF-80B11DC3E706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B829A7B9-3B96-4ABA-94FF-80B11DC3E706}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
