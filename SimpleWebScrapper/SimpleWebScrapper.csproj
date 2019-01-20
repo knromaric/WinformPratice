@@ -46,10 +46,9 @@
     <Compile Include="Builders\ScrapeCriteriaPartBuilder.cs" />
     <Compile Include="Data\ScrapeCriteria.cs" />
     <Compile Include="Data\ScrapeCriteriaPart.cs" />
-    <Compile Include="Person.cs" />
-    <Compile Include="PersonBuilder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="workers\Scraper.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
