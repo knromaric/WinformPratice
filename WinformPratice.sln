@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebScrapper", "Simple
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebScrapper.Test.Unit", "SimpleWebScraper.Test.Unit\SimpleWebScrapper.Test.Unit.csproj", "{A40D9401-8C96-4A8E-B882-23234E7CB14D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuSolver", "SudokuSolver\SudokuSolver.csproj", "{3155C243-ACA4-4073-8B03-4D284BD4FEAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{A40D9401-8C96-4A8E-B882-23234E7CB14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A40D9401-8C96-4A8E-B882-23234E7CB14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A40D9401-8C96-4A8E-B882-23234E7CB14D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3155C243-ACA4-4073-8B03-4D284BD4FEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3155C243-ACA4-4073-8B03-4D284BD4FEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3155C243-ACA4-4073-8B03-4D284BD4FEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3155C243-ACA4-4073-8B03-4D284BD4FEAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
